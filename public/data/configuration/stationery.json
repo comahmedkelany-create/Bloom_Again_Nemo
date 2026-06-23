@@ -1,0 +1,87 @@
+{
+  "stationery": [
+    {
+      "id": 1,
+      "name": "Violet Dream",
+      "theme": "violet-dream",
+      "mood": "Romantic"
+    },
+
+    {
+      "id": 2,
+      "name": "Rose Garden",
+      "theme": "rose-garden",
+      "mood": "Warm"
+    },
+
+    {
+      "id": 3,
+      "name": "Turkish Tulip",
+      "theme": "turkish-tulip",
+      "mood": "Elegant"
+    },
+
+    {
+      "id": 4,
+      "name": "Lavender Sky",
+      "theme": "lavender-sky",
+      "mood": "Dreamy"
+    },
+
+    {
+      "id": 5,
+      "name": "Cotton Candy",
+      "theme": "cotton-candy",
+      "mood": "Cute"
+    },
+
+    {
+      "id": 6,
+      "name": "Sakura",
+      "theme": "sakura",
+      "mood": "Peaceful"
+    },
+
+    {
+      "id": 7,
+      "name": "Orchid",
+      "theme": "orchid",
+      "mood": "Luxury"
+    },
+
+    {
+      "id": 8,
+      "name": "Purple Bloom",
+      "theme": "purple-bloom",
+      "mood": "Hope"
+    },
+
+    {
+      "id": 9,
+      "name": "Moonlight",
+      "theme": "moonlight",
+      "mood": "Calm"
+    },
+
+    {
+      "id": 10,
+      "name": "Golden Memory",
+      "theme": "golden-memory",
+      "mood": "Special"
+    },
+
+    {
+      "id": 11,
+      "name": "Watercolor",
+      "theme": "watercolor",
+      "mood": "Artistic"
+    },
+
+    {
+      "id": 12,
+      "name": "Vintage Letter",
+      "theme": "vintage-letter",
+      "mood": "Nostalgic"
+    }
+  ]
+}

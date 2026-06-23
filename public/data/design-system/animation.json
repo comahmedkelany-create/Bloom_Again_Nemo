@@ -1,0 +1,13 @@
+{
+  "instant": 100,
+
+  "fast": 200,
+
+  "normal": 350,
+
+  "slow": 600,
+
+  "verySlow": 1200,
+
+  "cinematic": 2500
+}

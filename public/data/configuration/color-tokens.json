@@ -1,0 +1,11 @@
+{
+  "appBackground": "warmWhite",
+  "letterBackground": "snow",
+  "buttonPrimary": "violet",
+  "buttonSecondary": "rosePink",
+  "buttonText": "snow",
+  "paperShadow": "light",
+  "envelopeShadow": "medium",
+  "title": "deepViolet",
+  "bodyText": "dark"
+}

@@ -1,0 +1,37 @@
+{
+  "primary": {
+    "violet": "#7C4DFF",
+    "lavender": "#B388FF",
+    "deepViolet": "#5E35B1"
+  },
+
+  "secondary": {
+    "rosePink": "#F48FB1",
+    "blushPink": "#F8BBD0",
+    "babyPink": "#FCE4EC"
+  },
+
+  "background": {
+    "snow": "#FFFFFF",
+    "warmWhite": "#FFFDF8",
+    "cream": "#FFF8F2"
+  },
+
+  "accent": {
+    "gold": "#E8C547",
+    "tulipGreen": "#7CB342",
+    "skyBlue": "#90CAF9"
+  },
+
+  "neutral": {
+    "dark": "#4A4A4A",
+    "medium": "#888888",
+    "light": "#EEEEEE"
+  },
+
+  "status": {
+    "success": "#4CAF50",
+    "warning": "#FFB300",
+    "error": "#E53935"
+  }
+}

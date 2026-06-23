@@ -1,0 +1,11 @@
+{
+  "mobileSmall": 360,
+
+  "mobile": 390,
+
+  "mobileLarge": 430,
+
+  "tablet": 768,
+
+  "desktop": 1024
+}

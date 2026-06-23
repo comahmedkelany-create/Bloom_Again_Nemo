@@ -1,0 +1,17 @@
+{
+  "background": 1,
+
+  "flowers": 10,
+
+  "particles": 20,
+
+  "envelope": 100,
+
+  "letter": 200,
+
+  "upload": 300,
+
+  "dialog": 500,
+
+  "loading": 1000
+}
