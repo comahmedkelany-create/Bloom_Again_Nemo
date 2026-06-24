@@ -165,17 +165,27 @@ In Progress
 - Basic letter layout.
 - Turkish interface placeholders.
 - Arabic message support.
+- Message model interface.
+- Sample message in messages.json.
+- Message data binding to LetterComponent.
+- MessageService with caching and lookup methods.
+- HttpClient provider in app configuration.
 
 ## Changed
 
 - Letter separated from EnvelopeComponent.
 - Message rendering moved into dedicated component.
+- LetterComponent now receives message via @Input.
+- AppLayout manages current message state.
+- Placeholder message replaced with real message data structure.
+- App configuration now includes HTTP communication support.
 
 ## Planned
 
-- JSON content loading.
+- Additional message loading methods.
 - Stationery themes.
 - Save functionality.
+- Display message content from service.
 
 ---
 

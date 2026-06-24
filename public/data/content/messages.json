@@ -1,0 +1,15 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "slug": "bloom-again",
+      "title": "Bloom Again",
+      "stationery": "RoseGarden",
+      "message": [
+        "تزهر الأزهار مرة أخرى.",
+        "مثل كل شيء جميل، تعود الذكريات.",
+        "شكراً لك على هذه اللحظة الخاصة."
+      ]
+    }
+  ]
+}

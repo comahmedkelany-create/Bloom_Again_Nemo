@@ -2,6 +2,6 @@
   <div id="envelope" [class.open]="isOpen" [class.close]="!isOpen">
     <div class="front flap"></div>
     <div class="front pocket"></div>
-    <div class="letter"><app-letter></app-letter></div>
+    <div class="letter"><app-letter [message]="message"></app-letter></div>
   </div>
 </div>

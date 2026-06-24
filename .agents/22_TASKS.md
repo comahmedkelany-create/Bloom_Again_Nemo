@@ -314,7 +314,7 @@ T-2.1.4
 
 T-2.1.5
 
-⬜ Replace Placeholder Message
+🟩 Replace Placeholder Message
 
 ---
 
@@ -324,21 +324,71 @@ Message Loading
 
 Status
 
+🟨 In Progress
+
+### Epic
+
+Content Services
+
+---
+
+Task
+
+T-2.2.0
+
+Create MessageService
+
+🟩
+
+---
+
+Task
+
+T-2.2.1
+
+Create Message Model
+
+🟩
+
+---
+
+Task
+
+T-2.2.2
+
+Read messages.json
+
 ⬜
 
-Tasks
+---
 
-⬜ Create MessageService
+Task
 
-⬜ Create Message Model
+T-2.2.3
 
-⬜ Read messages.json
+Find by Slug
 
-⬜ Find by Slug
+⬜
 
-⬜ Display Message
+---
 
-⬜ Handle Missing Message
+Task
+
+T-2.2.4
+
+Display Message
+
+⬜
+
+---
+
+Task
+
+T-2.2.5
+
+Handle Missing Message
+
+⬜
 
 ---
 

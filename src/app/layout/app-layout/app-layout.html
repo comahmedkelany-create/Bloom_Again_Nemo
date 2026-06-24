@@ -6,7 +6,12 @@
   <div id="effects-layer"></div>
 
   <div id="envelope-layer">
-    <app-envelope [isOpen]="isEnvelopeOpen()" (click)="toggleEnvelope()"> </app-envelope>
+    <app-envelope
+      [isOpen]="isEnvelopeOpen()"
+      [message]="currentMessage()"
+      (click)="toggleEnvelope()"
+    >
+    </app-envelope>
   </div>
 
   <div id="letter-layer"></div>
